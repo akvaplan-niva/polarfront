@@ -1,7 +1,8 @@
 # Data management plan for the POLARFRONT project
 
 Author: [Conrad Helgeland](mailto:che@akvaplan.niva.no) (project data manager)
-Version: 2021-08-21_DRAFT
+Latest draft: [dmp.md](https://github.com/akvaplan-niva/polarfront/blob/main/dmp.md)
+Previous version: [v0](https://github.com/akvaplan-niva/polarfront/blob/v0/dmp.md) (2021-08-22)
 Stage: Contract phase
 
 ## Project
@@ -70,6 +71,8 @@ Elixir Norway's Data Stewardship Wizard is used to develop the present [data man
 
 The wizard features FAIRness metrics used for measuring compliance with the FAIR guidelines.
 
+![FAIR-metrics](open-science/dsw-metrics.png)
+
 ## Data storage
 
 Prior to permanent archiving, special arrangements are needed to secure data and make it available for data processing and analysis.
@@ -121,8 +124,6 @@ The following needs to be clarified before first data is published:
 - Embargo period and crieria
 - Data partitioning strategy, for raw data
 - Data versioning strategy
-
-## References
 
 [1]: https://www.forskningsradet.no/en/Adviser-research-policy/open-science/open-access-to-research-data/
 [2]: https://doi.org/10.1186/s13041-020-0552-2
