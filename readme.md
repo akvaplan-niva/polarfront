@@ -18,7 +18,7 @@ Data management repository for [RCN](https://www.forskningsradet.no/en/) project
 
 ## Data management plans
 
-- [Latest](https://elixir-no.ds-wizard.org/projects/873c2b7c-3baf-4c5f-ae24-75b8d7bf4e02/preview) (latest editor's draft) – [Machine readable JSON](https://api.elixir-no.ds-wizard.org/questionnaires/873c2b7c-3baf-4c5f-ae24-75b8d7bf4e02)
+- [Latest](https://elixir-no.ds-wizard.org/projects/873c2b7c-3baf-4c5f-ae24-75b8d7bf4e02/preview) (editor's draft) – [Machine readable JSON](https://api.elixir-no.ds-wizard.org/questionnaires/873c2b7c-3baf-4c5f-ae24-75b8d7bf4e02)
 - [Previous](https://github.com/akvaplan-niva/polarfront/blob/v0/dmp.md) (pre-contract, v0)
 
 ## Web site
@@ -28,6 +28,7 @@ Data management repository for [RCN](https://www.forskningsradet.no/en/) project
 ## External
 
 - [Cristin project](https://app.cristin.no/projects/show.jsf?id=2524794)
+- [RCN funding notice](https://www.forskningsradet.no/en/call-for-proposals/2021/knowledge-building-project-for-industry/#:~:text=Polar%20Front%20ecosystem%20studies)
 - [RCN project](https://prosjektbanken.forskningsradet.no/en/explore/projects?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=score&sortOrder=desc&resultCount=30&offset=0&Fritekst=akvaplan&Ar=2022&Ar=2021)
 
 ## Media
