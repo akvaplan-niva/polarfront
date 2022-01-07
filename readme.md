@@ -1,6 +1,8 @@
-# [polarfront](https://github.com/akvaplan-niva/polarfront) – data management
+# [PolarFront](https://github.com/akvaplan-niva/polarfront) data management
 
-Data management repository for [RCN](https://www.forskningsradet.no/en/) project [POLARFRONT]() (2021-2023): _Polar Front ecosystem studies using novel autonomous technologies: Knowledge for environmental management and assessing ecological risk_.
+Data management repository for [RCN](https://www.forskningsradet.no/en/) project (326635) 2021-2024:
+
+_Polar Front ecosystem studies using novel autonomous technologies: Knowledge for environmental management and assessing ecological risk_.
 
 ## Open science statement
 
@@ -28,5 +30,4 @@ Data management repository for [RCN](https://www.forskningsradet.no/en/) project
 ## External
 
 - [Cristin project](https://app.cristin.no/projects/show.jsf?id=2524794)
-- [RCN funding notice](https://www.forskningsradet.no/en/call-for-proposals/2021/knowledge-building-project-for-industry/#:~:text=Polar%20Front%20ecosystem%20studies)
-- [RCN project](https://prosjektbanken.forskningsradet.no/en/explore/projects?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=score&sortOrder=desc&resultCount=30&offset=0&Fritekst=akvaplan&Ar=2022&Ar=2021)
+- [RCN project (326635)](https://prosjektbanken.forskningsradet.no/en/project/FORISS/326635)
