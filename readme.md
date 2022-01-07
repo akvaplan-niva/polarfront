@@ -1,6 +1,6 @@
 # [PolarFront](https://github.com/akvaplan-niva/polarfront) data management
 
-Data management repository for [RCN](https://www.forskningsradet.no/en/) project (326635) 2021-2024:
+Data management repository for [Research Council of Norway](https://www.forskningsradet.no/en/) project [326635](https://prosjektbanken.forskningsradet.no/en/project/FORISS/326635), project period 2021-2024:
 
 _Polar Front ecosystem studies using novel autonomous technologies: Knowledge for environmental management and assessing ecological risk_.
 
@@ -10,7 +10,7 @@ _Polar Front ecosystem studies using novel autonomous technologies: Knowledge fo
 
 > Open science informed by best practices.
 > We will manage POLARFRONT data in accordance with FAIR principles and the W3C best practices for publishing data on the web.
-> POLARFRONT will be built on open science principles, in line with the Norwegian Research Council’s recent policy on open science and the open data policies of UiT and Akvaplan-niva.
+> POLARFRONT will be built on open science principles, in line with The Research Council of Norway’s recent policy on open science and the open data policies of UiT and Akvaplan-niva.
 
 ## Repositories
 
