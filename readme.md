@@ -1,8 +1,8 @@
 # PolarFront data management
 
-`PolarFront` is a [Research Council of Norway](https://www.forskningsradet.no/en/) open science project, led by [Akvaplan-niva](https://www.akvaplan.niva.no/).
+`PolarFront`\* is a [Research Council of Norway](https://www.forskningsradet.no/en/) open science project, led by [Akvaplan-niva](https://www.akvaplan.niva.no/).
 
-Project name: _Polar Front ecosystem studies using novel autonomous technologies: Knowledge for environmental management and assessing ecological risk_.
+\*: _Polar Front ecosystem studies using novel autonomous technologies: Knowledge for environmental management and assessing ecological risk_.
 
 Project period: 2021-2024
 
@@ -18,7 +18,7 @@ Project period: 2021-2024
 
 - Data: [DataverseNO](https://dataverse.no/dataverse/polarfront)
 - Data management: [GitHub](https://github.com/akvaplan-niva/polarfront)
-- General: [Zenodo](https://zenodo.org/communities/polarfront/search?page=1&size=20)
+- General: [Zenodo](https://zenodo.org/communities/polarfront)
 
 ## Data management plan (DMP)
 
