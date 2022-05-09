@@ -1,7 +1,9 @@
 # PolarFront data management
-<details><summary>PolarFront</summary>Polar Front ecosystem studies using novel autonomous technologies: Knowledge for environmental management and assessing ecological risk">PolarFront</details>
 
-PolarFront is a [Research Council of Norway](https://www.forskningsradet.no/en/) open science project, led by [Akvaplan-niva](https://www.akvaplan.niva.no/).
+<details>
+  <summary>PolarFront is a [Research Council of Norway](https://www.forskningsradet.no/en/) open science project, led by [Akvaplan-niva](https://www.akvaplan.niva.no/)</summary>
+  <q>Polar Front ecosystem studies using novel autonomous technologies: Knowledge for environmental management and assessing ecological risk</q>
+</details>
 
 ## Open science statement
 
