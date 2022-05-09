@@ -1,8 +1,10 @@
-# [PolarFront](https://github.com/akvaplan-niva/polarfront) data management
+# PolarFront data management
 
-Data management repository for [Research Council of Norway](https://www.forskningsradet.no/en/) project [326635](https://prosjektbanken.forskningsradet.no/en/project/FORISS/326635), project period 2021-2024:
+`PolarFront` is a [Research Council of Norway](https://www.forskningsradet.no/en/) open science project, led by [Akvaplan-niva](https://www.akvaplan.niva.no/).
 
-_Polar Front ecosystem studies using novel autonomous technologies: Knowledge for environmental management and assessing ecological risk_.
+Project name: _Polar Front ecosystem studies using novel autonomous technologies: Knowledge for environmental management and assessing ecological risk_.
+
+Project period: 2021-2024
 
 ## Open science statement
 
@@ -18,16 +20,13 @@ _Polar Front ecosystem studies using novel autonomous technologies: Knowledge fo
 - Data management: [GitHub](https://github.com/akvaplan-niva/polarfront)
 - General: [Zenodo](https://zenodo.org/communities/polarfront/search?page=1&size=20)
 
-## Data management plans
+## Data management plan (DMP)
 
-- [Latest](https://elixir-no.ds-wizard.org/projects/873c2b7c-3baf-4c5f-ae24-75b8d7bf4e02/preview) (editor's draft) – [Machine readable JSON](https://api.elixir-no.ds-wizard.org/questionnaires/873c2b7c-3baf-4c5f-ae24-75b8d7bf4e02)
+- [Latest](https://elixir-no.ds-wizard.org/projects/873c2b7c-3baf-4c5f-ae24-75b8d7bf4e02) (editor's draft)
 - [Previous](https://github.com/akvaplan-niva/polarfront/blob/v0/dmp.md) (pre-contract, v0)
 
-## Web site
+## Links
 
-(coming): https://www.akvaplan.niva.no
-
-## External
-
-- [Cristin project](https://app.cristin.no/projects/show.jsf?id=2524794)
-- [RCN project (326635)](https://prosjektbanken.forskningsradet.no/en/project/FORISS/326635)
+- [PolarFront in Akvaplan-niva](https://www.akvaplan.niva.no/en/projects-networks/polar-front-ecology/)
+- [PolarFront in Cristin](https://app.cristin.no/projects/show.jsf?id=2524794)
+- [PolarFront in RCN's project bank](https://prosjektbanken.forskningsradet.no/en/project/FORISS/326635)
