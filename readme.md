@@ -22,7 +22,7 @@ Official name: _Polar Front ecosystem studies using novel autonomous technologie
 ## Data management plan (DMP)
 
 - [working draft](https://elixir-no.ds-wizard.org/projects/873c2b7c-3baf-4c5f-ae24-75b8d7bf4e02) on ELIXIR-Norway Data Stewardship Wizard
-- [pre-contract](https://github.com/akvaplan-niva/polarfront/blob/v0/dmp.md)
+- [pre-contract](https://github.com/akvaplan-niva/polarfront/blob/38f363e5aefd6183716624984c91ae55f6865bd1/dmp.md) (v0)
 
 ## Partner institutions
 
