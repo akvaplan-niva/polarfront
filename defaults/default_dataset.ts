@@ -1,6 +1,6 @@
-import { BasicDatasetInformation } from "dataverse/@types/basic_dataset.ts";
-import { DatasetSubjects } from "dataverse/@types/dataset_subjects.ts";
-import { DatasetUtil } from "dataverse/dataset_util.ts";
+import { BasicDatasetInformation } from "dataverse/deno/@types/basic_dataset.ts";
+import { DatasetSubjects } from "dataverse/deno/@types/dataset_subjects.ts";
+import { DatasetUtil } from "dataverse/dataset/util.js";
 
 const defaultAuthor = {
   fullname: "PolarFront Consortium",
@@ -144,7 +144,6 @@ export const payloadFromBasicDataset = (basic: BasicDatasetInformation) => {
   const {
     datasetVersion: { metadataBlocks },
   } = structuredClone(DatasetUtil.mapBasicDatasetInformation(basic));
-  //const { datasetVersion } = payload;
   metadataBlocks.citation.fields.push(timePeriodField);
   metadataBlocks.citation.fields.push(dateOfCollectionField);
   metadataBlocks.citation.fields.push(keywordField);
@@ -153,4 +152,27 @@ export const payloadFromBasicDataset = (basic: BasicDatasetInformation) => {
   return {
     datasetVersion: { metadataBlocks, license: defaultLicense },
   };
+};
+
+export const defaultPayload = (
+  dataset: { contact?: any; doi?: any; title?: any; text?: any },
+) => {
+  const { doi, title, text } = dataset;
+  const date = new Date().toJSON().split("T")[0];
+  const descriptions = [{ text, date }];
+
+  const defaultBasic = defaultBasicDataset();
+
+  const contact = dataset?.contact?.length > 0
+    ? dataset.contact
+    : defaultBasic.contact;
+
+  const basicDataset = {
+    ...defaultBasic,
+    title,
+    descriptions,
+    contact,
+  };
+  const payload = payloadFromBasicDataset(basicDataset);
+  return payload;
 };
