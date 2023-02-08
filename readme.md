@@ -2,13 +2,15 @@
 
 Open science project, led by [Akvaplan-niva](https://www.akvaplan.niva.no/)
 
+Open access tracker: https://polarfront.deno.dev/
+
 ## Repositories
 
 **Data/research output** Zenodo: https://zenodo.org/communities/polarfront
 
 **Data management** GitHub: https://github.com/akvaplan-niva/polarfront
 
-## Principles
+## Policies
 
 > "built on open science principles" (_Project proposal_, 2021)
 
@@ -45,4 +47,5 @@ Public funding: [Research Council of Norway](https://forskningsradet.no), grant
 ## Links
 
 - [PolarFront @ Akvaplan-niva](https://www.akvaplan.niva.no/en/projects-networks/polar-front-ecology/)
-- [PolarFront in Cristin](https://app.cristin.no/projects/show.jsf?id=2524794)
+- [PolarFront @ Cristin](https://app.cristin.no/projects/show.jsf?id=2524794)
+- [PolarFront @ RCN](https://prosjektbanken.forskningsradet.no/en/project/FORISS/326635)
