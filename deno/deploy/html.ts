@@ -1,4 +1,4 @@
-import { InvenioRdmRecord } from "invenio_rdm/types.ts";
+//import { InvenioRdmRecord } from "invenio_rdm/types.ts";
 import { logo400WBase64 } from "../logo.ts";
 
 const open = `<!doctype html>
