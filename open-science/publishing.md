@@ -30,9 +30,9 @@ invenio_rdm config
 { … "token":"…","base":"https://zenodo.org/"}
 ```
 
-## Create (draft)
+## Create metadata (draft record)
 
-Create draft with PolarFront [default]() metadata
+Create draft record with PolarFront [default]() metadata
 
 ```sh
 deno task zenodo_create '{"publication_date": "2023-10-31", "title": "Moving vessel profiler data from PolarFront 2023-08 cruise"}' dataset/2023-08_ship_mvp
@@ -43,7 +43,11 @@ cd files && md5sum * > md5.txt && cd .. && mv files/md5.txt .
 # less invenio.json: {"id":"10057437","created":"2023-10-31T10:12:08.547866+00:00"…
 ```
 
-# Upload files
+Edit draft on: https://zenodo.org/uploads/10057437
+
+Rememeber  to add set PolarFront as default community for the record.
+
+## Upload files
 
 Run `invenio_rdm upload`. Notice: It's safe (and recommended) to run multiple
 times to ensure that a complete files replica is created in the remote
