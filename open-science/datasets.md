@@ -1,5 +1,7 @@
 # PolarFront datasets
 
+DMP [reserved, not published DOI]: 10.5281/zenodo.7510299
+
 ## 2024-01
 
 - CTD: https://doi.org/10.5281/zenodo.14223309
@@ -20,7 +22,8 @@
 - LISST `@todo`
 - LOPC MVP `@todo`
 - LOPC Frankenstein `@todo`
-- MVP: https://doi.org/10.5281/zenodo.10363060
+- MVP: https://doi.org/10.5281/zenodo.10363060 [dup draft:
+  https://zenodo.org/uploads/10057437]
 - Report: https://doi.org/10.5281/zenodo.10013660
 - Ship logs: https://doi.org/10.5281/zenodo.10054152
 
@@ -30,7 +33,7 @@
 - CTD: https://doi.org/10.5281/zenodo.7418734
 - EK60: https://doi.org/10.5281/zenodo.7473204
 - Frankenstein WBAT: https://doi.org/10.5281/zenodo.7418828
-- LISST: `@todo`
+- `@todo` LISST: 10.5281/zenodo.7513025 https://zenodo.org/uploads/7513025
 - LOPC MVP: https://doi.org/10.5281/zenodo.7473506
 - LOPC Frankenstein: https://doi.org/10.5281/zenodo.7473510
 - MVP: https://doi.org/10.5281/zenodo.10363774
@@ -55,29 +58,32 @@
 
 ### 2023
 
-- Sailbuoy Echo PolarFront EK80 2023-08 to 2023-09 [`@todo`: 210 GB, remember
-  "cal"] (`2023_polarfront_sb_echo_1`)
-- Sailbuoy Echo PolarFront sensor data logs 2023-08 to 2023-09
-- 2023_polarfront_otter_otto: ctd ek80_1808 ek80_2208 ek80_2308
-
+- Sailbuoy Echo EK80 datasets PolarFront 2023
+  https://doi.org/10.5281/zenodo.10035460
+- Sensor data logs Sailbuoy Echo PolarFront 2023: Cal+datalogger
+- Sailbuoy Echo EK80 PolarFront 2023: 5 DOIs `@todo`: Cal+datalogger
+- Otter Otto PolarFront 2023: `@todo`: ctd ek80_1808 ek80_2208 ek80_2308
 - Seaglider SG644 oceanography: https://doi.org/10.5281/zenodo.13947022
 - Seaglider SG644 UVP6: https://doi.org/10.5281/zenodo.10041063
   `@todo [EcoTaxa/EcoPart]`
-- Seaglider SG644 EK80: https://doi.org/10.5281/zenodo.13946034
+- Seaglider SG644 EK80: https://doi.org/10.5281/zenodo.13946034 [dup draft:
+  https://zenodo.org/uploads/10040838]
 
-### 2022 (@todo)
+### 2022
 
-- 2022_polarfront_sb_adcp [237 MB]
-- 2022_polarfront_sb_echo_1 [48 GB]
-- 2022_polarfront_sb_iskant [26 GB]
-- 2022_polarfront_seaglider_sg153
-- 2022_polarfront_seaglider_sg644
-- Seaglider UVP6 `@todo [EcoTaxa/EcoPart]`
+- Sailbuoy ADCP: https://doi.org/10.5281/zenodo.14609142
+- Sailbuoy Echo data logs: https://doi.org/10.5281/zenodo.14617355
+- Sailbuoy Echo EK80: https://doi.org/10.5281/zenodo.14617116
+- Sailbuoy Iskant: `@todo`
+- Seaglider SG153 / SG644 ?:
+- Seaglider UVP6 `@todo`
 
 ### 2021
 
 - Sailbuoy ADCP seawater velocities: https://doi.org/10.5281/zenodo.7463097
-- Sailbuoy Iskant EK80 and sensor data https://doi.org/10.5281/zenodo.7463346
+- Sailbuoy Iskant PolarFront EK80 echosounder datasets and sensor data 2021-05
+  to 2021-07. https://doi.org/10.5281/zenodo.7463346
+- Sailbuoy Iskant PolarFront EK80 echosounder data [12 DOIs]
 - Seaglider oceanography from SG150 and SG644: `@todo`
   `2021_polarfront_seaglider_sg150` `2021_polarfront_seaglider_sg644_raw_netcdf`
-- Seaglider UVP6 `@todo [EcoTaxa/EcoPart]`
+- Seaglider UVP6 `@todo`
