@@ -33,7 +33,8 @@ DMP [reserved, not published DOI]: 10.5281/zenodo.7510299
 - CTD: https://doi.org/10.5281/zenodo.7418734
 - EK60: https://doi.org/10.5281/zenodo.7473204
 - Frankenstein WBAT: https://doi.org/10.5281/zenodo.7418828
-- `@todo` LISST: 10.5281/zenodo.7513025 https://zenodo.org/uploads/7513025
+- `@todo https://doi.org/10.5281/zenodo.7513025` LISST:
+  https://zenodo.org/uploads/7513025 https://zenodo.org/uploads/7513025
 - LOPC MVP: https://doi.org/10.5281/zenodo.7473506
 - LOPC Frankenstein: https://doi.org/10.5281/zenodo.7473510
 - MVP: https://doi.org/10.5281/zenodo.10363774
@@ -79,20 +80,19 @@ DMP [reserved, not published DOI]: 10.5281/zenodo.7510299
 
 - Sailbuoy ADCP: https://doi.org/10.5281/zenodo.14609142
 - Sailbuoy Echo data logs: https://doi.org/10.5281/zenodo.14617355
-- Sailbuoy Echo EK80: https://doi.org/10.5281/zenodo.14617116
+- Sailbuoy Echo EK80 [47.8 GB]: https://doi.org/10.5281/zenodo.14617116
 - Sailbuoy Iskant EK80/logs: https://doi.org/10.5281/zenodo.14638167
 - Seaglider SG153 hydrophone/oceanography:
   https://doi.org/10.5281/zenodo.14643730
-- Seaglider SG644 oceanography
-- Seaglider SG644 EK80
-- Seaglider SG644 UVP
+- Seaglider SG644 oceanography/EK80(15.6 GB)/UVP6(1.1GB):
+  https://doi.org/10.5281/zenodo.14644120
 
 ### 2021
 
 - Sailbuoy ADCP seawater velocities: https://doi.org/10.5281/zenodo.7463097
 - Sailbuoy Iskant PolarFront EK80 echosounder datasets and sensor data 2021-05
   to 2021-07. https://doi.org/10.5281/zenodo.7463346
-- Sailbuoy Iskant PolarFront EK80 echosounder:
+- Sailbuoy Iskant PolarFront EK80 [501.5 GB]:
   - 2021-05-16/2021-05-21
   - 2021-05-22/2021-05-26
   - 2021-05-27/2021-05-31
@@ -108,4 +108,4 @@ DMP [reserved, not published DOI]: 10.5281/zenodo.7510299
 - Seaglider oceanography from SG150 and SG644:
   https://doi.org/10.5281/zenodo.14643124
 - Seaglider SG644 hydrophone
-- Seaglider 150 UVP6 `@todo [EcoTaxa/EcoPart]`
+- Seaglider SG150 UVP6 `@todo [EcoTaxa/EcoPart]`
