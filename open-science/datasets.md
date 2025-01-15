@@ -15,7 +15,7 @@ DMP [reserved, not published DOI]: 10.5281/zenodo.7510299
 
 ## 2023-08
 
-- ADCP: `@todo`
+- ADCP: `@todo [UiT]`
 - CTD: https://doi.org/10.5281/zenodo.10044201
 - EK60: https://doi.org/10.5281/zenodo.10057303 [44.8GB]
 - Frankenstein WBAT https://doi.org/10.5281/zenodo.14512949 [28.8 GB]
@@ -33,8 +33,7 @@ DMP [reserved, not published DOI]: 10.5281/zenodo.7510299
 - CTD: https://doi.org/10.5281/zenodo.7418734
 - EK60: https://doi.org/10.5281/zenodo.7473204
 - Frankenstein WBAT: https://doi.org/10.5281/zenodo.7418828
-- `@todo https://doi.org/10.5281/zenodo.7513025` LISST:
-  https://zenodo.org/uploads/7513025 https://zenodo.org/uploads/7513025
+- LISST: `@todo https://doi.org/10.5281/zenodo.7513025`
 - LOPC MVP: https://doi.org/10.5281/zenodo.7473506
 - LOPC Frankenstein: https://doi.org/10.5281/zenodo.7473510
 - MVP: https://doi.org/10.5281/zenodo.10363774
@@ -60,7 +59,8 @@ DMP [reserved, not published DOI]: 10.5281/zenodo.7510299
 ### 2023
 
 - Sailbuoy Echo EK80 datasets PolarFront 2023:
-  https://doi.org/10.5281/zenodo.10035460
+  https://doi.org/10.5281/zenodo.10035460 `@todo v2 datalogger & EK80 Cal`:
+
 - Sailbuoy Echo EK80 PolarFront 2023:
   - 2023-08-18/2023-08-23: https://doi.org/10.5281/zenodo.10036821
   - 2023-08-24/2023-08-26: https://doi.org/10.5281/zenodo.10036823
@@ -68,11 +68,9 @@ DMP [reserved, not published DOI]: 10.5281/zenodo.7510299
   - 2023-09-04/2023-09-14: https://doi.org/10.5281/zenodo.10036827
   - 2023-09-15/2023-09-22: https://doi.org/10.5281/zenodo.10036829
 
-- Sensor data logs Sailbuoy Echo PolarFront 2023 `@todo datalogger & EK80 Cal`:
-- Otter Otto PolarFront 2023: `@todo ctd ek80_1808 ek80_2208 ek80_2308`
+- Otter Otto CTD EK80: https://doi.org/10.5281/zenodo.14651154
 - Seaglider SG644 oceanography: https://doi.org/10.5281/zenodo.13947022
 - Seaglider SG644 UVP6: https://doi.org/10.5281/zenodo.10041063
-  `@todo [EcoTaxa/EcoPart]?`
 - Seaglider SG644 EK80: https://doi.org/10.5281/zenodo.13946034 [dup draft:
   https://zenodo.org/uploads/10040838]
 
@@ -107,5 +105,5 @@ DMP [reserved, not published DOI]: 10.5281/zenodo.7510299
   - 2021-07-11/2021-07-13
 - Seaglider oceanography from SG150 and SG644:
   https://doi.org/10.5281/zenodo.14643124
-- Seaglider SG644 hydrophone
-- Seaglider SG150 UVP6 `@todo [EcoTaxa/EcoPart]`
+- Seaglider SG644 hydrophone:
+- Seaglider SG150 UVP6: https://doi.org/10.5281/zenodo.14650696
