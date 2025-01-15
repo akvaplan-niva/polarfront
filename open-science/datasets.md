@@ -8,22 +8,23 @@ DMP [reserved, not published DOI]: 10.5281/zenodo.7510299
 - CTD/LOPC: https://doi.org/10.5281/zenodo.14223359
 - EK60: https://doi.org/10.5281/zenodo.14224616
 - Frankenstein WBAT: https://doi.org/10.5281/zenodo.14223589
-- LISST: `@todo`
+- LISST: `@todo LISST 2024-01 https://zenodo.org/uploads/14652727`
 - LOPC: https://doi.org/10.5281/zenodo.14223503
 - Report: https://doi.org/10.5281/zenodo.10623809
 - Ship logs: https://doi.org/10.5281/zenodo.14223390
 
 ## 2023-08
 
-- ADCP: `@todo [UiT]`
+- ADCP: `@todo Ship ADCP 2023-08 [UiT]`
 - CTD: https://doi.org/10.5281/zenodo.10044201
 - EK60: https://doi.org/10.5281/zenodo.10057303 [44.8GB]
 - Frankenstein WBAT https://doi.org/10.5281/zenodo.14512949 [28.8 GB]
-- LISST `@todo`
-- LOPC MVP `@todo`
-- LOPC Frankenstein `@todo`
-- MVP: https://doi.org/10.5281/zenodo.10363060 [dup draft:
-  https://zenodo.org/uploads/10057437]
+- LISST `@todo LISST 2023-08 [UiT]`
+- LOPC MVP: https://doi.org/10.5281/zenodo.14652830
+- LOPC Frankenstein: https://doi.org/10.5281/zenodo.14652772
+- MVP: https://doi.org/10.5281/zenodo.10363060
+  `@todo dup draft:
+  https://zenodo.org/uploads/10057437`
 - Report: https://doi.org/10.5281/zenodo.10013660
 - Ship logs: https://doi.org/10.5281/zenodo.10054152
 
@@ -33,7 +34,8 @@ DMP [reserved, not published DOI]: 10.5281/zenodo.7510299
 - CTD: https://doi.org/10.5281/zenodo.7418734
 - EK60: https://doi.org/10.5281/zenodo.7473204
 - Frankenstein WBAT: https://doi.org/10.5281/zenodo.7418828
-- LISST: `@todo https://doi.org/10.5281/zenodo.7513025`
+- LISST: https://doi.org/10.5281/zenodo.7513024
+- LISST KDD: `LISST KDD 2022-05 @todo https://zenodo.org/uploads/14653044`
 - LOPC MVP: https://doi.org/10.5281/zenodo.7473506
 - LOPC Frankenstein: https://doi.org/10.5281/zenodo.7473510
 - MVP: https://doi.org/10.5281/zenodo.10363774
